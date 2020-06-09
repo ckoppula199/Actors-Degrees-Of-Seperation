@@ -7,3 +7,5 @@ Given the names Chris Pratt and Tom Cruise, the program would return the followi
 2 degrees of separation.  
 1: Chris Pratt and Cobie Smulders starred in Delivery Man  
 2: Cobie Smulders and Tom Cruise starred in Jack Reacher: Never Go Back  
+  
+The program uses a breadth first search algorithm to find the shortest path between 2 actors, treating the actors as nodes and movies as edges.
