@@ -8,4 +8,8 @@ Given the names Chris Pratt and Tom Cruise, the program would return the followi
 1: Chris Pratt and Cobie Smulders starred in Delivery Man  
 2: Cobie Smulders and Tom Cruise starred in Jack Reacher: Never Go Back  
   
-The program uses a breadth first search algorithm to find the shortest path between 2 actors, treating the actors as nodes and movies as edges.
+The program uses a breadth first search algorithm to find the shortest path between 2 actors, treating the actors as nodes and movies as edges.  
+
+Note: I was responsible for writing the shortest_path and backtrack methods in degrees.py. The rest of the code is provided by Harvard CS50 and is not my own work.
+
+To run the script simply execute python degrees.py in the command line.  
